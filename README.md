@@ -103,4 +103,6 @@ These results suggest that several commonly measured health indicators can provi
 
 This project was completed as part of graduate-level coursework in the **Master of Science in Business Analytics program at the University of Notre Dame**.
 
-The purpose of the analysis is
+The purpose of the analysis is to demonstrate how machine learning techniques can be applied to a real-world healthcare dataset and how model interpretation tools can help explain the factors influencing predictions.
+
+The models developed in this project are intended for educational and analytical purposes only and should not be considered a medical diagnostic tool.
